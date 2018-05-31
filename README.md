@@ -1,4 +1,3 @@
-# detection_fake_news
 ## Automatic Detection of Fake News
 与えられたステートメントがフェイクニュースであるか自動で判定するための教師ありデータセットと学習に用いたニューラネットモデルの公開。[検索エンジンによる上位検索ページを情報源とする
 フェイクニュース自動検出のためのデータセット作成(2018言語処理学会)](http://anlp.jp/proceedings/annual_meeting/2018/pdf_dir/E5-4.pdf)
